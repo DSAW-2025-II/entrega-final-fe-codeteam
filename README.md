@@ -1,5 +1,9 @@
 # 🚗 Sistema de Viajes Compartidos
 
+## Creado por
+- Sara Santacruz Corredor (320782)
+- Diego Alejandro Gomez Papagayo (336260)
+
 Sistema web para conectar conductores y pasajeros que desean compartir viajes, especialmente diseñado para la comunidad universitaria.
 # Despliegue
 - Backend: https://proyecto5-vs2l.onrender.com
